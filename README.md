@@ -26,6 +26,7 @@ A collection of awesome development telegram channels and groups. Like programme
 - [EK BOTZ PROJECT](https://telegram.me/EKBOTZ_UPDATE), [EK BOTZ TALKS](https://telegram.me/ekbotz_support)
 - [BOTS UNIVERSE](https://telegram.me/Bots_universe), [BOTS UNIVERSE SUPPORT](https://telegram.me/venilabots1)
 - [Heiman Developer](https://telegram.dog/HeimanSupports), [Heiman Support](https://telegram.dog/HeimanSupport)
+- [TG FREE BOTS](https://telegram.me/TG_Free_Bots)
 
 ## Tech Support 
 
