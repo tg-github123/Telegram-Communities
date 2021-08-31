@@ -4,7 +4,7 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ---
 
-## Official 
+## Official
 
 - [Telegram](https://telegram.me/Telegram)
 
