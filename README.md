@@ -21,6 +21,7 @@ A collection of awesome development telegram channels and groups. Like programme
 
 
 - [Pyrogram](https://telegram.me/Pyrogram), [Pyrogram Support](https://telegram.me/PyrogramChat)
+- [Python Telegram Bot](https://telegram.me/pythontelegrambotchannel), [Python Telegram Bot Support](https://telegram.me/pythontelegrambotgroup)
 
 ---
 
