@@ -24,6 +24,7 @@ A collection of awesome development telegram channels and groups. Like programme
 ## Bot Development 
 
 - [Fayas Noushad](https://telegram.me/FayasNoushad)
+- [Universal Projects] (https://telegram.me/Universal_Projects)
 - [MeG Bots](https://telegram.dog/MeGBots)
 - [EK BOTZ PROJECT](https://telegram.me/EKBOTZ_UPDATE)
 - [BOTS UNIVERSE](https://telegram.me/Bots_universe)
@@ -32,6 +33,7 @@ A collection of awesome development telegram channels and groups. Like programme
 ## Tech Support 
 
 - [Developer Team](https://telegram.me/TheDeveloperTeam)
+- [JV Community](https://t.me/JV_Community)
 - [EK BOTZ TALKS](https://telegram.me/ekbotz_support)
 - [BOTS UNIVERSE SUPPORT](https://telegram.me/venilabots1)
 - [Heiman Support](https://telegram.dog/HeimanSupport)
