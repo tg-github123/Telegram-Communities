@@ -38,7 +38,8 @@ A collection of awesome development telegram channels and groups. Like programme
 - [BOTS UNIVERSE SUPPORT](https://telegram.me/venilabots1)
 - [Heiman Support](https://telegram.dog/HeimanSupport)
 
-## Courses groups 
+## Courses groups
+
 - [Anonymous Courses](https://telegram.dog/course_group)
 - [The Syndicate Seven](https://telegram.dog/the_ssc_chat)
 - [Network Slutter](https://telegram.dog/netslutter)
