@@ -38,8 +38,8 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ## Bot List Collection
 
-- [Bot List](https://telegram.me/BotList)
-- [Bots Archive](https://telegram.me/BotsArchive)
+- [Bot List](https://telegram.me/BotList), [Bot List Chat](https://telegram.me/BotListChat)
+- [Bots Archive](https://telegram.me/BotsArchive), [Bots Archive Chat](https://telegram.me/BotsArchiveChat)
 
 ## Courses groups
 
