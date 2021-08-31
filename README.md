@@ -36,6 +36,10 @@ A collection of awesome development telegram channels and groups. Like programme
 - [BOTS UNIVERSE SUPPORT](https://telegram.me/venilabots1)
 - [Heiman Support](https://telegram.dog/HeimanSupport)
 
+## Bot List Collection
+
+- [Bot List](https://telegram.me/BotList)
+
 ## Courses groups
 
 - [Anonymous Courses](https://telegram.dog/course_group)
