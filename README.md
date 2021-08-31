@@ -6,6 +6,8 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ## Updates
 
+### Official
+
 - [Telegram English](https://telegram.me/Telegram)
 - [Telegram Arabic](https://telegram.me/TelegramArabia)
 - [Telegram German](https://telegram.me/TelegramDE)
@@ -14,6 +16,10 @@ A collection of awesome development telegram channels and groups. Like programme
 - [Telegram Dutch](https://telegram.me/TelegramNL)
 - [Telegram Brazil](https://telegram.me/TelegramBR)
 - [Telegram Indonesia](https://telegram.me/Telegramindonesia)
+
+### Unofficial
+
+- [Plus Messenger English](https://telegram.me/plusmsgrchat)
 
 ## Bot Development 
 
