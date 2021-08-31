@@ -34,7 +34,7 @@ A collection of awesome development telegram channels and groups. Like programme
 - [Developer Team](https://telegram.me/TheDeveloperTeam)
 - [EK BOTZ TALKS](https://telegram.me/ekbotz_support)
 - [BOTS UNIVERSE SUPPORT](https://telegram.me/venilabots1)
-- [Heiman Support](https://telegram.dog/HeimanSupport)l
+- [Heiman Support](https://telegram.dog/HeimanSupport)
 
 ## Framework Support
 
