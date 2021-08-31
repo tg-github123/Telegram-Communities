@@ -21,6 +21,7 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ## Bot Development 
 
+- [Bot News](https;//telegram.me/BotNews), [Bot Talk](https://telegram.me/BotTalk)
 - [Fayas Noushad](https://telegram.me/FayasNoushad)
 - [Universal Projects](https://telegram.me/Universal_Projects)
 - [MeG Bots](https://telegram.dog/MeGBots)
