@@ -13,9 +13,11 @@ A collection of awesome development telegram channels and groups. Like programme
 - [Fayas Noushad](https://telegram.me/FayasNoushad)
 - [MeG Bots](https://telegram.dog/MeGBots)
 
-## Tech Development 
+## Tech Support 
 
 - [Developer Team](https://telegram.me/TheDeveloperTeam)
+
+## Framework Support
 
 ---
 
