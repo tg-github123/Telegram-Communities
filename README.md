@@ -4,6 +4,10 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ---
 
+## Official 
+
+- [Telegram](https://telegram.me/Telegram)
+
 ## Bot Development 
 
 - [Fayas Noushad](https://telegram.me/FayasNoushad)
