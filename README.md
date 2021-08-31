@@ -4,7 +4,7 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ---
 
-## Official
+## Updates
 
 - [Telegram English](https://telegram.me/Telegram)
 - [Telegram Arabic](https://telegram.me/TelegramArabia)
