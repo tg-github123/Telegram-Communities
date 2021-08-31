@@ -4,7 +4,7 @@ A collection of awesome development telegram channels and groups. Like programme
 
 ---
 
-## Updates
+## Official
 
 - [Telegram English](https://telegram.me/Telegram)
 - [Telegram Arabic](https://telegram.me/TelegramArabia)
@@ -19,10 +19,12 @@ A collection of awesome development telegram channels and groups. Like programme
 
 - [Fayas Noushad](https://telegram.me/FayasNoushad)
 - [MeG Bots](https://telegram.dog/MeGBots)
+- [EK BOTZ PROJECT](https://telegram.me/EKBOTZ_UPDATE)
 
 ## Tech Support 
 
 - [Developer Team](https://telegram.me/TheDeveloperTeam)
+- [EK BOTZ TALKS](https://telegram.me/ekbotz_support)
 
 ## Framework Support
 
