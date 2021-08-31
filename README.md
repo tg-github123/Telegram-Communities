@@ -4,14 +4,9 @@ A collection of awesome development telegram channels and groups.
 
 ---
 
-## Channels 
+## Bot Development 
 
 - [Fayas Noushad](https://telegram.me/FayasNoushad)
-
----
-
-## Groups
-
 - [Developer Team](https://telegram.me/TheDeveloperTeam)
 
 ---
