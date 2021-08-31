@@ -1,6 +1,6 @@
 # Telegram-Communities
 
-A collection of awesome telegram channels and groups.
+A collection of awesome development telegram channels and groups.
 
 ---
 
